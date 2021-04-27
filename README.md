@@ -1,6 +1,7 @@
 # Tm-Intl-Board-of-Directors
 
-theme:New company,New future
-version:8.0
-planning time:May ？
-plan people:Mr Xiang
+<br>
+theme:New company,New future<br>
+version:8.0<br>
+planning time:May ？<br>
+plan:Mr Xiang<br>
